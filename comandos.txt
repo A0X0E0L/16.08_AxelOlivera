@@ -1,0 +1,12 @@
+
+     ls
+     mv 
+     touch 
+     git checkout -b 
+     mkdir
+     git add .
+     git commit -m
+     git push -u origin main
+     git remote add origin
+     git branch -M main
+     
